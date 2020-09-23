@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "XYZ",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "X": {
+      "item": "minecraft:furnace"
+    },
+    "Y": {
+      "item": "minecraft:blast_furnace"
+    },
+    "Z": {
+      "item": "minecraft:smoker"
+    }
+  },
+  "result": {
+    "item": "netherio:combined_furnace"
+  }
+}

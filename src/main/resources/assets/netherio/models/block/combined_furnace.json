@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "netherio:block/devblock",
+    "down": "netherio:block/devblock_side",
+    "up": "netherio:block/devblock_side",
+    "east": "netherio:block/devblock_side",
+    "west": "netherio:block/devblock_side",
+    "north": "netherio:block/devblock",
+    "south": "netherio:block/devblock_side"
+  }
+}
